@@ -1,0 +1,11 @@
+Puppy,Gran Danes,img/gran_danes.jpg,70
+Taylor,Beagle,img/beagle.jpg,75
+Cobrador,Akita,img/akita.jpg,90
+Brutal y Mamut,Doberman,img/dobe.jpg,80
+Maximus,Mastin Espanol,img/mastinEsp.jpg,60
+Tony,Bull Terrier,img/bullTerrier.jpg,63
+Nieve,Gigante de los Pireneos,img/gigan_pirineos.jpg,50
+Titan,Pug,img/pug.jpg,55
+Leviaton,Chiuahua,img/chih.jpg,40
+Tarzan,Gosque,img/gosque.jpg,100
+Fido,Mastin Napolitano,img/mastin.jpg,83
